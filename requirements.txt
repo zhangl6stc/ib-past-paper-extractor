@@ -1,0 +1,6 @@
+requests
+pdf2image
+Pillow
+PyMuPDF
+supabase
+curl_cffi
